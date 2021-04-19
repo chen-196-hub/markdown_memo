@@ -29,10 +29,10 @@ mysite mysite *mysite* mysite
 1. mysite
 
 
-- https://dotinstall.com
-- https://example.com
-- https://google.com
-- [ドットインストール](https://dotinstall.com)
+  - https://dotinstall.com
+  - https://example.com
+  - https://google.com
+  - [ドットインストール](https://dotinstall.com)
 
 ```
 def fib(x)
